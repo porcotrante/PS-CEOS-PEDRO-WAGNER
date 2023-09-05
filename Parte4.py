@@ -56,7 +56,7 @@ def eh_permutacao(vetor1,vetor2):
     else:
         print("São permutações")
 
-#Demontração do algortimo
+#Demonstração do algortimo
 vetor1=[1,2,3,4,5]
 vetor2=[5,4,3,2,1]
 
