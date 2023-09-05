@@ -62,4 +62,4 @@ vetor2=[5,4,3,2,1]
 
 eh_permutacao(vetor1,vetor2)
 
-#No melhor caso, assim como no caso médio, esse algoritmo tem complexidade o(n), ou seja, operará em tempo linear, no pior caso, ele terá complexidade o(n^2), operando em tempo quadrático
+#No melhor caso, assim como no caso médio, esse algoritmo tem complexidade o(nlogn), ou seja, operará em tempo linear, no pior caso, ele terá complexidade o(n^2), operando em tempo quadrático
