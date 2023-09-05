@@ -36,7 +36,7 @@ def qsort(vetor,menor,maior):
 
         qsort(vetor,pivo+1,maior)
 
-#demonstração do algoritmo
+#Demonstração do algoritmo
 vetor=[9,8,10,-5,3,7,21]
 
 qsort(vetor,0,len(vetor)-1)
