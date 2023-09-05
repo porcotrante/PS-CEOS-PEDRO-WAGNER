@@ -63,7 +63,7 @@ def organizar_vetores(vetor1,vetor2):
 
     print("vetor dos maiores:",vetor2)
 
-#demontração do algoritmo
+#Demonstração do algoritmo
 vetor1=[12,47,13,41,8]
 
 vetor2=[44,32,21,49,10]
